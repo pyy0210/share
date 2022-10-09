@@ -4,7 +4,7 @@
     "pingMethod":"googleping",
     "sortMethod":"rspeed",
     "concurrency":16,
-    "testMode":8,
+    "testMode":2,
     "subscription":"https://cdn.jsdelivr.net/gh/vveg26/GetNode@master/sub/sub_merge_base64.txt",
     "timeout":8,
     "language":"en",
