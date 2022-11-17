@@ -3,11 +3,11 @@
 
 clash：
 
-`https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt`
+`https://raw.githubusercontent.com/pyy0210/TopFreeProxies/master/Eternity.yaml`
 
 v2ray:
 
-`https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt`
+`https://raw.githubusercontent.com/pyy0210/TopFreeProxies/master/Eternity`
 
 
 ## 操作指南
