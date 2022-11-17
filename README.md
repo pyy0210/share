@@ -3,11 +3,11 @@
 
 clash：
 
-`https://raw.githubusercontent.com/vveg26/SubAutoConv/main/sub/clash/selfnode.yaml`
+`https://raw.githubusercontent.com/pyy0210/SubAutoConv/main/sub/clash/selfnode.yaml`
 
 v2ray:
 
-`https://raw.githubusercontent.com/vveg26/share/main/sub/v2`
+`https://raw.githubusercontent.com/pyy0210/share/main/sub/v2`
 
 
 ## 操作指南
