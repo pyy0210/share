@@ -3,11 +3,11 @@
 
 clash：
 
-`https://raw.githubusercontent.com/vveg26/SubAutoConv/main/sub/clash/selfnode.yaml`
+`https://raw.githubusercontent.com/pyy0210SubAutoConv/main/sub/clash/selfnode.yaml`
 
 v2ray:
 
-`https://raw.githubusercontent.com/vveg26/share/main/sub/v2`
+`https://raw.githubusercontent.com/pyy0210/share/main/sub/v2`
 
 
 ## 操作指南
@@ -16,4 +16,4 @@ v2ray:
 3. lite_config.json中的订阅地址要是base64码才行
 转换出来的v2也是base64码
 4. 项目源码在
-   https://github.com/vveg26/nodespeedtest
+   https://github.com/pyy0210/nodespeedtest
