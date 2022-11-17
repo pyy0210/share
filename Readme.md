@@ -3,12 +3,11 @@
 
 clash：
 
-`https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt`
+`https://fastly.jsdelivr.net/gh/pyy0210/TopFreeProxies@master/Eternity`
 
 v2ray:
 
-`https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt`
-
+`https://fastly.jsdelivr.net/gh/pyy0210/TopFreeProxies@master/Eternity.yaml`
 
 ## 操作指南
 1. 使用本项目之前，首先需要知道git的基本使用（创建ssh连接到自己的git）
