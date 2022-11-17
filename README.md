@@ -3,11 +3,11 @@
 
 clash：
 
-`https://raw.githubusercontent.com/pyy0210/SubAutoConv/main/sub/clash/selfnode.yaml`
+`https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt`
 
 v2ray:
 
-`https://raw.githubusercontent.com/pyy0210/share/main/sub/v2`
+`https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt`
 
 
 ## 操作指南
